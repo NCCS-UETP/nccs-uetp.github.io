@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# INNOVATIVE SECURED SYSTEMS LAB (NCCS-UETP)
 
-You can use the [editor on GitHub](https://github.com/NCCS-UETP/nccs-uetp.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The goal of this application area is to enhance the security of web applications and services against cyber-attacks. In particular, we aim to develop security testing tools that will cover the OWASP Top 10 vulnerabilities. The lack of effective testing techniques and tools is one of the main reasons that vulnerabilities remain undetected in web based systems. Labwill develop testing techniques and tools to discover multiple vulnerabilities in such systems. We plan to use novel testing techniques (e.g., search-based testing) for detection of vulnerabilities. Secured IoT Devices
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This part of the lab would enable the deployment of cutting-edge scientific concepts and IoT based devices for the attainment of various economic and developmental goals. The utilization of IoT devices for monitoring of goods during conveyance is of paramount importance for ensuring the delivery of articles in good shape. Such kind of data is related to the condition, location, quantity and value of goods. However, such type of remote monitoring systems not only possess communication and mobile networking challenges, but also the protection of this immensely valuable data is a very complicated task. This process of achieving secure IoT communications requires acquaintance with the peculiarities of IoT based communication as well as an awareness of the innovative features of mobile networks along with careful design of the system. Blockchain Security
 
-### Markdown
+This part will of the lab will focus on research and development of a framework for blockchain based web and mobile applications for both indigenous and international (cutting edge) technologies,formal modelling and verification framework for blockchian technologies and protocols and developing an efficient and cost effective algorithm and protocol for consensus problem in blockchain technologies. Our People
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our core members and reserchers are academics, developers, administrators and MS/PhD students. Our industrial partners are public and private cyber security organizations that advise us on the design, implementation and commercialization of the R&D work originating from our Lab.
 
-```markdown
-Syntax highlighted code block
+## DIRECTOR / PRINCIPAL INVESTIGATOR
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NCCS-UETP/nccs-uetp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Dr. Sadeeq Jan**
+INNOVATIVE SECURED SYSTEMS LAB
+National Centre for Cyber Security
+University of Engineering & Technology Peshawar
